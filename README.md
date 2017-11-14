@@ -1,2 +1,2 @@
 # practice-pull-request
-Pulll Requestの練習
+Pull Requestの練習
